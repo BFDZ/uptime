@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status - BFDZ',
+  SiteName: 'Uptime Status - slyw',
 
   // 站点链接
   SiteUrl: '/',
@@ -31,7 +31,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://www.bfdz.ink/'
+      url: 'https://slyw.me/'
     },
     {
       text: 'GitHub',
